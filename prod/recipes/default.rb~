@@ -1,3 +1,0 @@
-include_recipe 'prod::repository'
-include_recipe 'prod::install-php'
-include_recipe 'prod::install-fpm'
